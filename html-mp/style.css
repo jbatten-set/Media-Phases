@@ -42,8 +42,8 @@ color: black;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-	width: 100%;
-	height: 100%;
+	width: 232px;
+	height: 232px;
 }
 
 
@@ -54,8 +54,8 @@ color: black;
 }
 
 .circle-black img {
-width: 232px;
-height: 232px;
+width: auto;
+height: auto;
 }
 
 .circle-red {
@@ -64,13 +64,13 @@ height: 232px;
     justify-content: space-around;
     flex-direction: column;
     background-color:rgba(209.00000274181366, 32.00000189244747, 49.00000087916851, 1);
-	width: 100%;
-	height: 100%;
+	width: 232px;
+	height: 232px;
 }
 
 .circle-red img {
-   width: 232px;
-   height: 232px;
+   width: auto;
+   height: auto;
     }
 
 .main-title {

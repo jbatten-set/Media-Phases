@@ -78,3 +78,31 @@ height: auto;
     font-size: 2.5em;
     margin-bottom: 30px;
 }
+
+.p_text { 
+	color:rgba(255, 255, 255, 1);
+	width: 100%;
+	height: auto;
+	display: flex;
+	font-family:Inter;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+	margin-bottom: 50px;
+}
+
+.frame-red { 
+	background-color:rgba(209.00000274181366, 32.00000189244747, 49.00000087916851, 1);
+	width: 85%;
+	height: auto;
+	justify-content: space-around;
+	text-align: center;
+}
+
+.frame-black { 
+	background-color:rgba(0,0,0, 1);
+	width: 85%;
+	height: auto;
+	justify-content: space-around;
+	text-align: center;
+}

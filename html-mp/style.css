@@ -28,8 +28,9 @@ height: auto;
 }
 
 .sub-titles h2 {
-    font-size: 1.5em;
-color: black;
+    	font-size: 1.5em;
+	color: black;
+	width: 232px;
 }
 .circles {
 	display: flex;

@@ -23,7 +23,7 @@ height: auto;
 .sub-titles {
     display: flex;
     justify-content: space-around;
-    width: 100%;
+    width: 90%;
     margin-bottom: 30px;
 }
 
@@ -35,7 +35,7 @@ height: auto;
 .circles {
 	display: flex;
 	justify-content: space-around;
-	width: 100%;
+	width: 90%;
 }
 .circle-black {
     border-radius:50%;

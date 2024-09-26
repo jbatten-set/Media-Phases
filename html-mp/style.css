@@ -84,6 +84,7 @@ ul {
 	width: 100%;
 	height: auto;
 	display: flex;
+	flex-direction: column;
 	font-family:Inter;
 	text-align:center;
 	font-size:30px;

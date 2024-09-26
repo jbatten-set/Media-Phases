@@ -93,10 +93,11 @@ ul {
 }
 .left-ul {
 	color:rgba(255, 255, 255, 1);
-	width: 80%;
+	width: fit-content;
 	height: auto;
 	display: flex;
 	flex-direction: column;
+	float: left;
 	font-family:Inter;
 	text-align:left;
 	font-size:26px;
@@ -106,9 +107,10 @@ ul {
 }
 .right-ul {
 	color:rgba(255, 255, 255, 1);
-	width: 80%;
+	width: fit-content;
 	height: auto;
 	display: flex;
+	float: right;
 	flex-direction: column;
 	font-family:Inter;
 	text-align:right;
@@ -159,6 +161,7 @@ ul {
 	width: 100%;
 	height: auto;
 	font-family:Inter;
+	display: flex;
 	text-align:center;
 	font-size:26px;
 	justify-content: center;

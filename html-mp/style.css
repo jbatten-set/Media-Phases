@@ -86,8 +86,8 @@ ul {
 	display: flex;
 	flex-direction: column;
 	font-family:Inter;
-	text-align:center;
-	font-size:30px;
+	text-align:left;
+	font-size:26px;
 	letter-spacing:0;
 	margin-bottom: 50px;
 }
@@ -106,4 +106,36 @@ ul {
 	height: auto;
 	justify-content: space-around;
 	text-align: center;
+}
+.h1_text { 
+	color:rgba(255, 255, 255, 1);
+	width: 100%;
+	height: auto;
+	display: flex;
+	font-family:Inter;
+	text-align:center;
+	justify-content: space-around; 
+	font-size:40px;
+	letter-spacing:0;
+}
+.h1_text_black { 
+	color:rgba(0, 0, 0, 1);
+	width: 100%;
+	height: auto;
+	display: flex;
+	font-family:Inter;
+	text-align:center;
+	justify-content: space-around; 
+	font-size:40px;
+	letter-spacing:0;
+}
+.back_text { 
+	color:rgba(255, 255, 255, 1);
+	width: 100%;
+	height: auto;
+	font-family:Inter;
+	text-align:center;
+	font-size:26px;
+	justify-content: center;
+	letter-spacing:0;
 }

@@ -79,14 +79,14 @@ height: auto;
     margin-bottom: 30px;
 }
 
-.p_text { 
+ul { 
 	color:rgba(255, 255, 255, 1);
 	width: 100%;
 	height: auto;
 	display: flex;
 	font-family:Inter;
 	text-align:center;
-	font-size:36px;
+	font-size:30px;
 	letter-spacing:0;
 	margin-bottom: 50px;
 }

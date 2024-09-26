@@ -45,8 +45,8 @@ height: auto;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-	width: 15vh;
-	height: 15vh;
+	width: 52vh;
+	height: 52vh;
 }
 
 
@@ -57,7 +57,7 @@ height: auto;
 }
 
 .circle-black img {
-width: 15vh;
+width: 52vh;
 height: auto;
 }
 
@@ -67,12 +67,12 @@ height: auto;
     justify-content: space-around;
     flex-direction: column;
     background-color:rgba(209.00000274181366, 32.00000189244747, 49.00000087916851, 1);
-	width: 15vh;
-	height: 15vh;
+	width: 52vh;
+	height: 52vh;
 }
 
 .circle-red img {
-   width: 15vh;
+   width: 52vh;
    height: auto;
     }
 
